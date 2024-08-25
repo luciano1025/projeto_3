@@ -1,0 +1,18 @@
+.navbar {
+    background-color: chartreuse;
+}
+
+.nav .nav-link.active {
+    background-color: rgb(130, 27, 226);
+    color: rgb(192, 198, 207);
+}
+
+.nav .nav-link, 
+.navbar-brand,
+.navbar-brand:hover {
+    color: rgb(87, 82, 82);
+}
+
+.navbar-toggler {
+    background-color:rgb(131, 129, 126);
+}
